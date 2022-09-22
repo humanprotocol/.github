@@ -8,4 +8,3 @@ To achieve all work on-chain, we have created a variety of tools. Here's a list 
 - https://github.com/humanprotocol/fortune - An example javascript application for the human protocol
 - https://github.com/humanprotocol/eth-kvstore - A lightweight contract which the human protocol uses for pki and data encryption
 - https://github.com/humanprotocol/hmt-basemodels - An examples base models repo, used for data labeling on the human protocol
--
