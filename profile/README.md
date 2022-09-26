@@ -20,3 +20,6 @@ The best way to get a job on human is to do one of our open source challenges
 
 ## devops based challenge
 - Work closesly with us on discord to merge fortune, eth-kvstore and eth-dashboard into hmt-escrow.
+
+## maintainer program
+- We have a variety of issues on https://github.com/humanprotocol/hmt-escrow/issues where you can add a new network to hmt-escrow. This is our evm maintainers program 
