@@ -16,3 +16,7 @@ The best way to get a job on human is to do one of our open source challenges
 ## Fortune and eth-kvstore based challenges
 - https://github.com/humanprotocol/fortune/issues/9
 - https://github.com/humanprotocol/eth-kvstore/issues/13
+- https://github.com/humanprotocol/fortune/issues/5
+
+## devops based challenge
+- Work closesly with us on discord to merge fortune, eth-kvstore and eth-dashboard into hmt-escrow.
