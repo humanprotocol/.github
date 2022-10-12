@@ -11,7 +11,7 @@ To achieve all work on-chain, we have created a variety of tools. Here's a list 
 
 
 ### Challenges
-The best way to get a job on human is to do one of our open source challenges
+The best way to get a job on human is to do one of our open source challenges. You can apply for a job at http://hmt.ai/jobs
 
 ## Fortune and eth-kvstore based challenges
 - https://github.com/humanprotocol/fortune/issues/9
