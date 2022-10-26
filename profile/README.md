@@ -12,13 +12,11 @@ To achieve all work on-chain, we have created a variety of tools. Here's a list 
 ### Challenges
 The best way to get a job on human is to do one of our open source challenges. You can apply for a job at http://hmt.ai/jobs
 
-## Fortune and eth-kvstore based challenges
-- https://github.com/humanprotocol/fortune/issues/9
-- https://github.com/humanprotocol/eth-kvstore/issues/13
+## Challenges
+- https://github.com/humanprotocol/hmt-escrow/issues/405
+- https://github.com/humanprotocol/hmt-escrow/issues/404
+- https://github.com/humanprotocol/hmt-escrow/issues/389
 - https://github.com/humanprotocol/fortune/issues/5
-
-## devops based challenge
-- Work closesly with us on discord to merge fortune, eth-kvstore and eth-dashboard into hmt-escrow.
 
 ## maintainer program
 - We have a variety of issues on https://github.com/humanprotocol/hmt-escrow/issues where you can add a new network to hmt-escrow. This is our evm maintainers program 
