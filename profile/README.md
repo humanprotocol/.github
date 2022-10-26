@@ -12,7 +12,6 @@ To achieve all work on-chain, we have created a variety of tools. Here's a list 
 ### Challenges
 The best way to get a job on human is to do one of our open source challenges. You can apply for a job at http://hmt.ai/jobs
 
-## Challenges
 - https://github.com/humanprotocol/hmt-escrow/issues/405
 - https://github.com/humanprotocol/hmt-escrow/issues/404
 - https://github.com/humanprotocol/hmt-escrow/issues/389
