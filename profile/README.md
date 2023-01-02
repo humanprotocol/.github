@@ -21,4 +21,4 @@ The best way to get a job on human is to do one of our open source challenges. Y
 - https://github.com/humanprotocol/human-protocol/issues/78
 
 ## maintainer program
-- We have a variety of issues on https://github.com/humanprotocol/hmt-escrow/issues where you can add a new network to hmt-escrow. This is our evm maintainers program 
+- We have a variety of issues on https://github.com/humanprotocol/human-protocol/issues where you can add a new network to hmt-escrow. This is our evm maintainers program 
