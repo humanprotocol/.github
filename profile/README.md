@@ -6,13 +6,6 @@ To achieve all work on-chain, we have created a variety of tools. Here's a list 
 - https://github.com/humanprotocol/hmt-basemodels - An examples base models repo, used for data labeling on the human protocol
 - https://github.com/humanprotocol/.github/wiki
 
-## Archived repos
-- https://github.com/humanprotocol/hmt-escrow - where the human protocol was born. Javascript and python implementations for the smart contract interface to the human protocol
-- https://github.com/humanprotocol/fortune - An example javascript application for the human protocol
-- https://github.com/humanprotocol/eth-kvstore - A lightweight contract which the human protocol uses for pki and data encryption
-
-
-
 ### Challenges
 The best way to get a job on human is to do one of our open source challenges. You can apply for a job at http://hmt.ai/jobs
 
